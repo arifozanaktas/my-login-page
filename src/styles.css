@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+@import 'ngx-toastr/toastr';
+*{
+    font-family: 'Playfair Display', serif;
+    color: #01260E;
+}
+.card-body{
+    
+    background-color: #4aee91;
+}
+.card-header{
+    
+    background-color: #1da759;
+}
